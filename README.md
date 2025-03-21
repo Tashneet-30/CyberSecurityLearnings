@@ -87,7 +87,7 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt http://fakebank.thm/login.php
 
 
 DAY 02 
-# 🛡️ Cyber Security Learnings – Day 2 (04 March 2025)
+# 🛡️ Cyber Security Learnings – Day 2 (21 March 2025)
 
 ## 🔍 Understanding Defensive Security  
 
